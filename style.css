@@ -12,7 +12,7 @@ input{
     padding: 17px;
     outline: none;
     font-size: 22px;
-    font-family: cursive;
+    font-family: 'Roboto', sans-serif;
 }
 .num{
     width: 64px;
